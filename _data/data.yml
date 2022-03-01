@@ -60,48 +60,68 @@ experience:
           - Performing competition research of leading market players in order to inform & improve pricing strategy
     technologies_used: | 
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Quality Assurance Engineer
+    time: Aug 2020-Sept 2021
+    company: Deloitte (US Offices of India)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      As a QA Engineer, I worked within the ServiceNow Centre of Excellence, involved in the development of a globally-scaled SaaS-powered enterprise
+      software solution, across various modules such as - Service, Business, Operations & Asset Management. My day-to-day responsibilities included: 
+          - Leading the design of test strategy plans, brainstorming test methodologies, preparing project documentation and owning the defect lifecycle quality 
+          assurance software that meets business requirements in an agile-team
+          - Creation of automation scripts for quality assurance measures that reduced manual efforts 
+          - Worked in an agile environment and provided sprint tracking & reporting in compliance with COE standards 
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+    
+  - role: Business Analyst
+    time: June 2019-Aug 2020
+    company: Deloitte (US Offices of India)
+    details: |
+      As a QA Engineer, I worked within the ServiceNow Centre of Excellence, involved in the development of a globally-scaled SaaS-powered enterprise
+      software solution, across various modules such as - Service, Business, Operations & Asset Management. My day-to-day responsibilities included: 
+          - Leading the design of test strategy plans, brainstorming test methodologies, preparing project documentation and owning the defect lifecycle quality 
+          assurance software that meets business requirements in an agile-team
+          - Creation of automation scripts for quality assurance measures that reduced manual efforts 
+          - Worked in an agile environment and provided sprint tracking & reporting in compliance with COE standards 
+    technologies_used: |
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: Inspire Shout Out Award
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Dell Technologies
+    conference: Dec 2021
 
-  - title: Second title of paper. An interesting one too.
+  - title: High Five Team Award
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Deloitte USI
+    conference: July, 2021
+    
+  - title: Applause Award
+    link: "#"
+    authors: Deloitte USI
+    conference: May, 2021
 
 projects:
-  - title: Cool Project 
+  - title: E-commerce web application built using Java Spring 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      1 of Top 10 students selected by Amazon as part of their Campus Mentorship Program which culminated in the development of an 
+        end-to-end web solution using Java-based Spring framework, eventually presented to a panel at Amazon's campus
 
-  - title: Cool Project 
+  - title: Event ticket booking system using smart contracts
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Developed a prototype for a ticketing system based on blockchain architecture using smart contracts
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: Oct 2021
+    role: Volunteer Tutor
+    company: Mawardi Mahavidyala
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      I began a tutoring initiative at an understaffed local school for high school students and oversee volunteer activities.
+  - time: 2016-2019
+    role: Senior Representative 
+    company: Student Body, KMIT
+    details: |
+        In the capacity of a core Student Body member, I acted as an Editor of the university magazine and chaired the organizing committee of various
+        student-run initiatives and campus events
