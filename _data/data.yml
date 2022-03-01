@@ -4,22 +4,22 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: ritikasaboo13@gmail.com
+  github: 
+  linkedin: 
+  phone: +91 9121793741
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Hindi
+  - idiom: Telugu
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BTech in Computer Science
+    time: 2015-2019
+    university: Keshav Memorial Institute of Technology
 
   - degree: BSc in Computer Science
     time: 2010-2014
