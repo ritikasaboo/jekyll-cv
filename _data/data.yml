@@ -19,7 +19,7 @@ languages:
 education:
   - degree: BTech in Computer Science
     time: 2015-2019
-    university: Keshav Memorial Institute of Technology
+    university: JNTU
 
   - degree: BSc in Computer Science
     time: 2010-2014
@@ -28,16 +28,15 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Java Spring Framework
+      - Hibernate
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML
+      - CSS
+  - category: Databases
     skill:
-      - Docker
-      - Kubernetes 
+      - mySQL
 
 # Profile
 profile: |
@@ -49,17 +48,17 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Business Intelligence Analyst
+    time: Sept 2021-Present
+    company: Dell Technologies
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      As a Business Intelligence Analyst at Dell, I primarily provide data intelligence to the supply chain and 
+      pricing departments for Asia-Pacific & North America regions for Dell's various lines of business. 
+          - Performing predictive analytics for inventory data to facilitate both long-term & short-term demand planning, report & track key performance metrics 
+          to improve forecasting measures; improve operational efficiency; reduce costs associated with supply
+          - Analysing sales performance relative to market trends for review by leaders for Dell's worldwide business 
+          - Performing competition research of leading market players in order to inform & improve pricing strategy
     technologies_used: | 
-      Go, Angular, Typescript, C++
   
   - role: Researcher
     time: 2016-2020
