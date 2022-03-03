@@ -21,31 +21,40 @@ education:
     time: 2015-2019
     university: JNTU
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
 skills:
+  - category: Programming languages
+    skill:
+      - Java
+      - Python
+      - C
+
   - category: Backend
     skill: 
       - Java Spring Framework
       - Hibernate
+      
   - category: Frontend
     skill:
       - HTML
       - CSS
+      
   - category: Databases
     skill:
       - mySQL
+      
+  - category: Data Analysis
+    skill:
+      - Python ML libraries
+      - PowerBI
+      - VBA Programming
+      - SSIS 
 
-# Profile
+# Profile 
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+  My professional objective is to carve a space at the intersection of emerging technologies & business. I wish to build a career building data-intensive systems 
+  at the enterprise level that allow businesses to grow and scale their operations. I have demonstrable history in key skills such as requirements gathering, analysis, quality assurance
+  and data analytics. 
+  
 # Experience
 experience:
   - role: Business Intelligence Analyst
