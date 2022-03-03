@@ -22,7 +22,7 @@ education:
     university: JNTU
 
 skills:
-  - category: Programming languages
+  - category: Programming
     skill:
       - Java
       - Python
@@ -51,9 +51,9 @@ skills:
 
 # Profile 
 profile: |
-  My professional objective is to carve a space at the intersection of emerging technologies & business. I wish to build a career building data-intensive systems 
-  at the enterprise level that allow businesses to grow and scale their operations. I have demonstrable history in key skills such as requirements gathering, analysis, quality assurance
-  and data analytics. 
+  My professional objective is to carve a space at the intersection of emerging technologies & business. My ambition build a career building data-intensive systems 
+  at the enterprise level that allow businesses to grow and scale their operations. I have demonstrable history in key skills such as data analysis & intelligence, requirements gathering, analysis, 
+  quality assurance, web development and agile methodology. 
   
 # Experience
 experience:
